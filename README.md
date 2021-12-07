@@ -1,3 +1,12 @@
+# README
+
+- The template for this landing page is from [here](https://github.com/flexdinesh/dev-landing-page) - great job and thanks for providing this template.
+- I've updated the favicon.ico of the template and took it from here https://favicon.io/emoji-favicons/ 
+- Besides that - feel free to reach out!
+
+
+
+:information_source: original content of the readme below :information_source:
 # Dev Landing Page
 
 Minimal landing page for developers.
