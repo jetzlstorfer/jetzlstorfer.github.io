@@ -4,6 +4,11 @@
 - I've updated the favicon.ico of the template and took it from here https://favicon.io/emoji-favicons/ 
 - Besides that - feel free to reach out!
 
+## Run locally or via codespaces
+
+```
+jekyll serve
+```
 
 
 :information_source: original content of the readme below :information_source:
