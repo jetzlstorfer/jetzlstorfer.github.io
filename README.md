@@ -2,7 +2,7 @@
 
 [![pages-build-deployment](https://github.com/jetzlstorfer/jetzlstorfer.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jetzlstorfer/jetzlstorfer.github.io/actions/workflows/pages/pages-build-deployment)
 
-Repo for my github landing page at https://jetzlstorfer.github.io 
+The landing page at https://jetzlstorfer.github.io redirects to https://jetzlstorfer.org/ using an HTML meta refresh. The previous page is preserved as `index_legacy.html`.
 
 - The template for this landing page is from [here](https://github.com/flexdinesh/dev-landing-page) - great job and thanks for providing this template.
 - I've updated the favicon.ico of the template and took it from here https://favicon.io/emoji-favicons/ 
